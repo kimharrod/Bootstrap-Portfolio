@@ -1,3 +1,10 @@
+body  {
+	background-image: url(../images/old_moon/old_moon.png);
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
 p {
 	font-size: 16px;
     line-height: 26px;
@@ -29,3 +36,10 @@ p {
 
 }
 
+.footer {
+  height: 70px;
+  background-color: #333;	
+  color: white;
+  font-size: 10px; 
+  border-top: 2px solid #dbdbdb;
+}

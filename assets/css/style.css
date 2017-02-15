@@ -1,0 +1,31 @@
+p {
+	font-size: 16px;
+    line-height: 26px;
+    text-align: justify;
+}
+
+.navbar-brand {
+    color: white;
+    font-weight: 400;
+    font-size: 2em;
+    text-decoration: none;
+    width: 320px;
+}
+
+.panel-body ul {
+	list-style: none;
+
+}
+
+.panel-body img {
+  float: left;
+  margin-top: 8px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.panel-body img:last-child {
+  margin-left: 0;
+
+}
+

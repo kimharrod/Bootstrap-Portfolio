@@ -24,6 +24,19 @@ form {
     width: 320px;
 }
 
+
+.col-md-5 a:hover {
+	color: white;
+}
+
+.label {
+	color: #3e3f3a;
+	font-size: 1.5em;
+	font-weight: 300;
+	line-height: 36px;
+}
+
+
 .panel-body ul {
 	list-style: none;
 
@@ -48,6 +61,4 @@ form {
   font-size: 10px; 
   border-top: 2px solid #dbdbdb;
 }
-
-
 
